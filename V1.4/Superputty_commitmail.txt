@@ -1,0 +1,5 @@
+Add password to the add/edit session dialog.
+
+As of now, user can only give password as "-pw" in the ExtraArgs. Hence adding a dedicated pane for storing the password.
+
+Still the password won't be encrypted in the xml, but when the user wants to edit some session, the password won't be revealed to anyone starring at his monitors :)
