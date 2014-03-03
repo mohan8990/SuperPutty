@@ -10,7 +10,7 @@ My version of enhanced super putty. Super putty is a ssh client manager. See - h
 
 This superputty allows you to add/edit password for the sessions within the GUI(without using the ExtraArgs box).
 
-<h5> Go to downloads folder to download this version of superputty <h5>
+<h5> Go to release tab to download this version of superputty <h5>
 
 <h1> TODO </h1>
 (any contributions are welcome - code level or wishlist level)
